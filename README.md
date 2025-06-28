@@ -60,3 +60,14 @@ ROC Curve screenshots added to the images folder*
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras torch torchvision timm opencv-python
 
+---
+
+---
+## 👨‍💻 Author
+
+**Vamshi Krishna Kondra**  
+📍 MSc in Data Analytics – Dublin Business School (2025)  
+🔗 [GitHub](https://github.com/VamshiKondra77)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-kondra-5a124a216/)
+
+
