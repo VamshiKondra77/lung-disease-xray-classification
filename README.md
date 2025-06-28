@@ -3,6 +3,10 @@
 This deep learning project classifies chest X-ray images into five categories: COVID-19, Bacterial Pneumonia, Viral Pneumonia, Tuberculosis, and Normal. We compare multiple CNN models (ResNet50, DenseNet121, EfficientNetB3) and a Vision Transformer (ViT), and combine them using a soft-voting ensemble.
 
 ---
+## 1. Dataset Used
+Dataset Name: Lungs Disease Dataset (4 Types)
+Source: Kaggle
+Link:  https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types
 
 ## 📊 Summary
 
