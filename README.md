@@ -40,10 +40,18 @@ Link:  https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4
 | **Ensemble** | **92.49%** | **0.92** |
 
 ---
+ ## 📊 ROC Curve Analysis
+
+To further evaluate the classifier's performance across all five lung disease classes, ROC (Receiver Operating Characteristic) curves were generated for each label.
+
+Each curve plots the **True Positive Rate (Sensitivity)** against the **False Positive Rate**, and the **AUC (Area Under Curve)** provides a summary score of how well each class is separated.
+ROC Curve screenshots added to the images folder*
+
 
 ## 🧠 Explainability with Grad-CAM
 
-*Grad-CAM heatmaps were used to highlight lung regions influencing model decisions*
+*Grad-CAM heatmaps were used to highlight lung regions influencing model decisions are added in images section*
+
 
 ---
 
